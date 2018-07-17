@@ -1,0 +1,79 @@
+[ Wimp FAQ ]
+$ Revision Saturday, May 15 2010 $
+
+Q. Why Wimp ?
+A. Why not.
+
+Q. When I use the equalizer, volume goes way low.
+A. The Xine Amp kicks in to prevent clipping (?). Use the
+   "Amp level" on the "Audio" tab to boost volume.
+
+Q. Where are the equalizer presets ?
+A. Equalizer presets are only available in the full version
+   of wimp, which costs ten trillion dollars.
+  
+Q. Which video / audio output driver should I use ?
+A. Use xv + alsa for optimum performance, or select "auto"
+   to let xine decide what's best.
+
+Q. Who's this lady you keep referring to?
+A. I'm not gonna tell you.
+
+Q. I wanna donate.
+A. Keep your $.99. I don't want it.
+
+Q. What's the system requirement?
+A. Anything that can run X. 32 MB of RAM, 350 MHz processor,
+   couple of MB's of free space ...
+
+Q. How come so low?
+A. That's what I have. I'm poor.
+
+Q. But my foo player requires 10GB of ram. Surely it must have
+   better features?
+A. Surely.
+
+Q. If you've used Gtk+-2.0 and libxine, both high level libraries,
+   brilliantly object oriented in native C, how much did you contribute
+   to this project on your own ?
+A. Umm ....
+
+Q. My god the player runs stable and fast. Can I send you a picture
+   of myself as a thank you gift? I'm a russian super model.
+A. Finally!
+
+Q. Your player is stupid.
+A. Hm.
+
+Q. Did she really not call you on April the 18th ?
+A. Swear to god she did not. And, I waited for 3 years, right next
+   to the phone.
+
+Q. What about LADSPA and some really cool audio effects that'll make
+   my average speakers sound nicer.
+A. Unfortunately, xine has no LADSPA support as yet. You have the
+   compressor for now. Either I'll wait for somebody to put in ladspa
+   in xine, or try to implement it myself.
+
+Q. What does "TV Mode" do?
+A. I wished I knew.
+
+Q. I want more features.
+A. You'll have them soon.
+
+Q. Now that I've used it, the player seems really usable.
+A. Hm.
+
+Q. It don't play ( properly ) some codec.
+A. That's a libxine thing. Update your xine libraries.
+
+Q. Can wimp open my media player's playlists?
+A. You can try.
+
+Q. What's the "emergency exit" strategy?
+A. It aborts the player immediately, irrespective of whatever it's
+   doing. So, if you have a slow system, and you're watching some HD
+   "news" video size 720x480 and, well, hit escape and it goes away.
+   No gaurantees ( try the realtime Linux patch ), but it should make
+   the player exit immediately.
+   

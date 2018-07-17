@@ -1,0 +1,43 @@
+Introduction
+---------------
+WiMP is a robust and easy to use media player for Linux and
+perhaps other POSIX like systems. It aims for stability and
+low system resources as requirements.
+
+System Requirements
+---------------------
+It should run on anything that can run X. 32 MB RAM, 400 MHz
+processor, some free space. I developed it on 256 MB RAM,
+1.5 GHz Pentium 4, Fedora Core 4.
+
+Software Requirements
+------------------------
+Gtk+-2.0
+Libxine
+
+It should work on old ( ~ 2004 ) distros. I developed it on
+Fedora Core 4.
+
+Compiling and Running
+------------------------
+To compile, you'll need devel packages of everything from
+Xorg to Gtk+-2.0 and libxine
+
+to compile, do
+$ make
+
+to run, do
+$ ./wimp
+
+There is no need to "install" it anywhere. Just move the
+wimp binary to ~/bin and you should be good to go.
+
+Bugs
+-----
+Of course. And, some of them are complimentary.
+Mail 'em to me. I'll take a look.
+
+About the author
+------------------
+I'm Shaji, and I'm a post graduate english literature 
+student.

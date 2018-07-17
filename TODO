@@ -1,0 +1,20 @@
+1. Signal Handlers
+2. Equalizer
+3. Log viewer xine_log* and our own g_debug and such mesages
+4. explore xine plugins
+5. Use our own and save on exit xine config
+6. Automatically or otherwise adjust to increase performance
+7. lock to memory
+8. Hand over all event handling to Gdk instead of 
+   checking for them ourselves through XEvents
+9. Balance
+10. Drag 'n Drop
+11. Session
+12. Config
+13. Album Art
+14. Repeat
+15. Single click fullscreen show / hide controls
+16. Show meta info somewhere ( Now playing ? )
+17. Zoom
+18. Multiple Consoles
+19. Extract filenames from file=http:// and flv=http://

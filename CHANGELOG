@@ -1,0 +1,4 @@
+ * 1.1 Bug fixes and new Search module
+ * 1.0 All new GUI :)
+ * 0.3 Changed all getenv ( "HOME" ) calls to g_get_home_dir ()
+       Thanks to Polesz on Gtk-apps.org
